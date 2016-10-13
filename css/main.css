@@ -1,0 +1,70 @@
+html {
+  background-color: #c9b5ab;
+  font-family: "PT Serif", serif;
+}
+
+.b {
+  list-style-type: lower-greek;
+}
+
+.a {
+  list-style-type: none;
+}
+
+p time {
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family:"PT Sans", sans-serif;
+}
+
+a,
+a:first-child {
+  color: #af2440;
+  font-weight: bolder;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: inherit;
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+blockquote p {
+  line-height: 1.5;
+  font-size:1.5rem;
+  font-family: "PT Serif", serif;
+  font-style: italic;
+}
+
+figcaption {
+  font-family: italic
+  font-size: 0.8rem;
+}
+
+h2 {
+  font-family: "PT Sans", sans-serif;
+  color:#3f1622;
+}
+
+dt:first-child {
+  line-height: 2;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+small {
+  font-size: 0.8rem;
+}
